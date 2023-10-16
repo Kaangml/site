@@ -7,7 +7,7 @@
 
     <style>
         .kutu1{
-            background-color: rgb(32, 143, 95);
+            background-color: rgba(218, 220, 219, 0);
             width: 800px;
             height: 200px;
         }  
